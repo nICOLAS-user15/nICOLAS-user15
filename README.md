@@ -4,8 +4,8 @@
 
 **Computer Science student | Always learning | Seeking professional growth**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-moura632?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmoura632@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nICOLAS-user15)
 
 </div>
@@ -15,8 +15,8 @@
 ## 🚀 About Me
 
 - 🎯 Goal: **Junior Developer opportunity**
-- 💻 Tech stack: **Java, C#, HTML, CSS, JavaScript, Git, VS Code, Visual Studio, GitHub**
-- 🌱 Currently learning: **SQL, English**
+- 💻 Tech stack: **Java, C#, HTML, CSS, JavaScript, Git, VS Code, Visual Studio, GitHub.**
+- 🌱 Currently learning: **C#, SQL, Linux.**
 
 ---
 
