@@ -18,7 +18,6 @@
 - 🎯 Goal: **Junior Developer opportunity**
 - 💻 Tech stack: **Java, C#, HTML, CSS, JavaScript, Git, VS Code, Visual Studio, GitHub.**
 - 🌱 Currently learning: **C, SQL, Linux.**
-- 📱 Contact me: nicolasmoura632@gmail.com
 
 ---
 
