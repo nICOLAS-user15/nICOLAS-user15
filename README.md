@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nICOLAS-user15/nICOLAS-user15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nicolas 👋
 
-Here are some ideas to get you started:
+**Computer Science student | Always learning | Seeking professional growth**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nICOLAS-user15)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎯 Goal: **Junior Developer opportunity**
+- 💻 Tech stack: **Java, C#, HTML, CSS, JavaScript, Git, VS Code, Visual Studio, GitHub**
+- 🌱 Currently learning: **SQL, English**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cs,html,css,js,git,vscode,visualstudio,github&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nICOLAS-user15&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nICOLAS-user15&layout=compact&langs_count=7&theme=radical" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nICOLAS-user15&theme=radical&hide_border=false" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+
+
+</div>
+
+---
+
+⭐️ From [nICOLAS-user15](https://github.com/nICOLAS-user15)
+
+</div>
