@@ -31,16 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nICOLAS-user15&theme=radical&hide_border=false" />
-
-</div>
-
----
-
 From [nICOLAS-user15](https://github.com/nICOLAS-user15)
 
 </div>
