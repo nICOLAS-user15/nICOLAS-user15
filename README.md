@@ -17,7 +17,7 @@
 
 - 🎯 Goal: **Junior Developer opportunity**
 - 💻 Tech stack: **Java, C#, HTML, CSS, JavaScript, Git, VS Code, Visual Studio, GitHub.**
-- 🌱 Currently learning: **C, SQL, Linux.**
+- 🌱 Currently learning: **SQL, JavaScript, Cypress.**
 
 ---
 
